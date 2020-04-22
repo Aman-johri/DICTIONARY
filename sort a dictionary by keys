@@ -1,0 +1,5 @@
+# sort a dictionary by keys
+d={2:"johri",1:"aman"}
+for i in sorted(d):
+    print("%d:%s"%(i,d[i]))
+
